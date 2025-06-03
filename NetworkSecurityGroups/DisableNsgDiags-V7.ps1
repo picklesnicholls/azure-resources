@@ -9,7 +9,7 @@ $workspaceId = "/subscriptions/SUBID/resourceGroups/RESORCEGROUP/providers/Micro
 $resourceType = "Microsoft.Network/networkSecurityGroups"
 
 # Toggle this variable to control 'what if' mode
-$whatIf = $false  # Set to $true to preview, $false to actually remove settings
+$whatIf = $true  # Set to $true to preview, $false to actually remove settings
 
 # Define the output file path
 $outputFilePath = "NSGsWithTargetWorkspaceDiagnosticsRemoved.csv"
