@@ -6,7 +6,7 @@ Set-AzContext -SubscriptionId $subscriptionId
 $resourceType = "Microsoft.Network/networkSecurityGroups"
 
 # Toggle this variable to control 'what if' mode
-$whatIf = $true  # Set to $true to preview, $false to actually remove settings
+$whatIf = $false  # Set to $true to preview, $false to actually remove settings
 
 # Get all resource groups in the subscription
 $resourceGroups = Get-AzResourceGroup
