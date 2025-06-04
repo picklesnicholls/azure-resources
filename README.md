@@ -1,2 +1,10 @@
-# azure-resources
-A collection of PowerShell scripts I've compiled, for Azure Resources.
+```
+ __  __ _                           __ _        _                        
+|  \/  (_) ___ _ __ ___  ___  ___  / _| |_     / \    _____   _ _ __ ___ 
+| |\/| | |/ __| '__/ _ \/ __|/ _ \| |_| __|   / _ \  |_  / | | | '__/ _ \
+| |  | | | (__| | | (_) \__ \ (_) |  _| |_   / ___ \  / /| |_| | | |  __/
+|_|  |_|_|\___|_|  \___/|___/\___/|_|  \__| /_/   \_\/___|\__,_|_|  \___|
+
+```
+
+A collection of PowerSell scripts I've compiled, for Azure Resources.
