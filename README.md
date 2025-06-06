@@ -7,4 +7,4 @@
 
 ```
 
-A collection of PowerSell scripts I've compiled, for Azure Resources.
+**A collection of PowerSell scripts I've compiled, for Azure Resources.**
