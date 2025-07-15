@@ -7,7 +7,7 @@ $TenantID = "TENANT-ID"
 
 # The ID of the API
 # (e.g. common Microsoft API's such as Microsoft Graph, DefenderATP, SharePoint)
-# For a full list of API app ID's, check out https://github.com/dmb2168/o365-appids/blob/master/ids.md
+# For a full list of API app ID's, check out https://www.azadvertizer.net/azEntraIdAPIpermissionsAdvertizer.html?targetAppId=fc780465-2017-40d4-a0c5-307022471b92
 $AppId = "API-APP-ID"
 
 # Display name of your Managed Identity's Service Principal (as seen in Entra ID)
