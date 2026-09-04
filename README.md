@@ -28,3 +28,7 @@ Scripts for creating, auditing and managing Azure NSGs.
 - Microsoft Graph module where noted (`Install-Module Microsoft.Graph`)
 - Appropriate RBAC permissions for the operations performed  
 - See each script's comment header for specifics
+
+## Contributing  
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). Issues and PRs welcome.
